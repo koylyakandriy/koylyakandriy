@@ -9,7 +9,4 @@
   <a  margin="0" href="https://www.linkedin.com/in/koiliakandrii/">
     <img width="36px" height="36px" src="https://camo.githubusercontent.com/609be48e654a9c8aed1660c2596b04f09ed13aee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667">
   </a>
-  <a  margin="0" href="">
-    <img width="36px" height="36px" src="https://w7.pngwing.com/pngs/730/864/png-transparent-instagram-logo-computer-icons-insta-logo-text-computer-icons-circle.png">
-  </a>
 </p>
