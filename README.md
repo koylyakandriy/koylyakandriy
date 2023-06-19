@@ -12,4 +12,7 @@
   <a margin="0" href="https://www.codewars.com/users/koylyakandriy" target="_blank">
     <img width="" height="36px" src="https://camo.githubusercontent.com/bc742588bbf11d497fbf1545ab234149d8b996c5f668584273385ec306e17771/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f6b6f796c79616b616e647269792f6261646765732f6c61726765">
   </a>
+  <a margin="0" href="https://tryhackme.com/p/akoiliak" target="_blank">
+    <img height="36px" src="https://tryhackme-badges.s3.amazonaws.com/akoiliak.png" alt="TryHackMe">
+  </a>
 </p>
