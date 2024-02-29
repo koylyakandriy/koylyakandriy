@@ -7,7 +7,7 @@
 
 <p align="center">
   <a margin="0" href="https://www.linkedin.com/in/koiliakandrii/" target="_blank">
-    <img width="36px" height="36px" src="https://t4.ftcdn.net/jpg/02/96/54/23/240_F_296542385_MRAzEGWuXRZEFyZsDk9kYGcYQItHGvES.jpg">
+    <img width="36px" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png">
   </a>
   <a margin="0" href="https://www.codewars.com/users/koylyakandriy" target="_blank">
     <img width="" height="36px" src="https://www.codewars.com/users/koylyakandriy/badges/micro">
